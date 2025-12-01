@@ -1,5 +1,4 @@
-# 🩺 **Breast Cancer Classification — Logistic Regression**
-
+# 🩺 **Breast Cancer Classification**
 A clean and focused machine-learning project using **Logistic Regression** to classify breast cancer tumors (Malignant vs. Benign) based on the **Breast Cancer Wisconsin (Diagnostic)** dataset.
 
 This repository contains a Jupyter Notebook demonstrating data exploration, preprocessing, and the implementation of a Logistic Regression classifier.
